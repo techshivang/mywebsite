@@ -11,7 +11,7 @@ ipython==7.13.0
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 gunicorn==19.9.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
